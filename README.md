@@ -4,7 +4,18 @@ This repository is the official implementation of the paper entitled "Fairness-A
 
 ## BibTeX Citation
 
-This section will be updated once the paper is available.
+If you use any part of this code in your research, please cite it using the following BibTex entry:
+
+```latex
+@inproceedings{minatel2023model,
+  author={Minatel, Diego and Parmezan, Antonio R. S. and Cúri, Mariana and De Andrade Lopes, Alneu},
+  booktitle={2023 International Conference on Machine Learning and Applications (ICMLA)}, 
+  title={Fairness-Aware Model Selection Using Differential Item Functioning}, 
+  year={2023},
+  pages={1971-1978}
+  doi={10.1109/ICMLA58977.2023.00298}
+}
+```
 
 ## Abstract
 

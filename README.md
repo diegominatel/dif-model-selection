@@ -23,4 +23,4 @@ Differential Item Functioning~(DIF) is a powerful tool for developing fairer tes
 
 ## Full text of the paper
 
-This section will be updated once the paper is available.
+Access the full text of this paper at: https://ieeexplore.ieee.org/document/10459924
